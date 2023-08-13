@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paiman Rasoli
-- 🌱 I’m currently working in TrueTale
+- 🌱 I’m currently working as a SDE II in TrueTale
 
 
 <!---
